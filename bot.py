@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 BOT_TOKEN = "8635225417:AAEjiMEq9Q2LXeN7a0bq8om32lVmELA3cBI"
-APP_URL = "https://magenta-narwhal-50c884.netlify.app/"
+APP_URL = "t.me/earnbtc_pro_bot/earnbtcpro"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """/start - Button ke saath link"""
